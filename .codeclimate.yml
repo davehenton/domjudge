@@ -44,6 +44,7 @@ ratings:
 
 ## Excluded files, e.g. external libraries:
 exclude_paths:
+- "/code/sql/files/defaultdata/float/config.h"
 - "config.guess"
 - "config.sub"
 - "install.sh"
